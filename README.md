@@ -4,6 +4,7 @@ Api de vendas feita com SpringBoot com autenticacao de usuarios
 - Spring boot 
 - JPA
 - Hibernate
+- H2
 - JUnit
 - Bean validation
 - Spring security e JWT(JsonWebToken)
